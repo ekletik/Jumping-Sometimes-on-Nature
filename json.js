@@ -31,9 +31,3 @@ function renderHTML(data) {
     }
     content.insertAdjacentHTML('beforeend', contentFull);
 }
-
-/*
-<div class="card">
-    <img src="https://unsplash.it/356/280/?image=900" data-tags="Animals,Sea" alt="Animal Seal Lion">
-</div>
-*/
